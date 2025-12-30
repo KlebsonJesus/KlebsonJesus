@@ -1,5 +1,1 @@
-- Olá, meu nome é klebson Santos
-- tenho 21 anos
-- tenho interesse em estágio de segurança da informação.
-- estou cursando superior em análise e desenvolvimento de sistema
-- venho me aprimorando cada vez mais com cursos da área de segurança da informação.
+Computer Science student | Junior Developer | Cybersecurity enthusiast
