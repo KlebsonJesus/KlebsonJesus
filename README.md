@@ -1,1 +1,1 @@
-Computer Science student | Junior Developer | Cybersecurity enthusiast
+Desenvolvedor Front-End | React.js | JavaScript | HTML | CSS
